@@ -5,6 +5,7 @@ Chia công việc:
     + Login, Logout
 
 ======================
+
 Những phần chưa hoàn thiện: 
 + Lấy comment theo tên công việc
 + Bị delay dữ liệu khi update
